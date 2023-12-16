@@ -36,7 +36,7 @@
 ### Output:
 ![image](https://github.com/22002525karthikeyan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118708040/7d8db877-430c-436a-9a5a-87473b9642d3)
 
-### Name: tHajesh k
+### Name: thajesh k
 ### Register Number: 23004042
 
 ## RESULT:
